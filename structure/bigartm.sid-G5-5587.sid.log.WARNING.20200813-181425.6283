@@ -1,0 +1,5 @@
+Log file created at: 2020/08/13 18:14:25
+Running on machine: sid-G5-5587
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E0813 18:14:25.582645  6283 c_interface.cc:59] InvalidOperation :  Dictionary 'dictionary' does not exist
+W0813 18:28:12.769456  6283 check_messages.h:1082] Inconsistent fields size in ThetaMatrix: 476 vs 0 vs 476 vs 0;

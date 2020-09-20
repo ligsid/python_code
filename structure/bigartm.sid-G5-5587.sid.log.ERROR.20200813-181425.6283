@@ -1,0 +1,4 @@
+Log file created at: 2020/08/13 18:14:25
+Running on machine: sid-G5-5587
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E0813 18:14:25.582645  6283 c_interface.cc:59] InvalidOperation :  Dictionary 'dictionary' does not exist
